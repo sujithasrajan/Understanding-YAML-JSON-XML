@@ -1,0 +1,11 @@
+company:
+  catalogue:
+  - {Artist: Bob Dylan, Price: 10.9, Title: Empire Birlesque, Year: 1985}
+  - {Artist: Bonnie Tyler, Price: 9.9, Title: Hide your heart, Year: 1988}
+  - {Artist: Gary Moore, Price: 10.2, Title: Still got the blues, Year: 1990}
+  - {Artist: Eros Ramazzotti, Price: 9.9, Title: Eros, Year: 1997}
+  - {Artist: Kenny Rogers, Price: 8.7, Title: For the good times, Year: 1995}
+  header:
+    Address: {city: Frederick, state: MD, street: 678 Main street, zip_code: 21703}
+    Company_name: CoolCDs Inc
+

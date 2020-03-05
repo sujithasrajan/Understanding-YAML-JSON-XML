@@ -1,0 +1,41 @@
+company:
+  employee:
+  - Age: 26
+    ID: 5674882
+    Position: Programmer
+    Skills:
+    - python
+    - C/C++
+    - Pascal
+    name:
+      first: Joe
+      last: Apple
+  - Age: 34
+    ID: 8635820
+    Position: Tester
+    Skills:
+    - Java
+    - RESTful API
+    - TestNG
+    name:
+      first: Alex
+      last: Pear
+  - Age: 31
+    ID: 7800356
+    Position: AQ Eng
+    Skills:
+    - Maven
+    - Git
+    name:
+      first: Jenny
+      last: Orange
+  - Age: 47
+    ID: 7849080
+    Position: Manager
+    Skills:
+    - Project Management
+    - Scrum
+    name:
+      first: Peter
+      last: Nuts
+  name: KingSoft.Inc

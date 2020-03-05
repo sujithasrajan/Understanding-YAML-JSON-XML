@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<invoice>
+    <InvoiceNo>56889456</InvoiceNo>
+
+    <billing>
+        <name>Smart Computer Depot</name>
+        <phno>765-555-1234</phno>
+        <addr units="street addr">57 Stream Lane</addr>
+        <addr units="city">Bell Gradens</addr>
+        <addr units="state">CA</addr>
+        <addr units="zip">90201</addr>
+    </billing>
+
+    <billed>
+        <name>Awesome software Inc</name>
+        <phno>568-163-0798</phno>
+        <addr units="street addr">68 Main Street</addr>
+        <addr units="city">Crystal Lake</addr>
+        <addr units="state">IL</addr>
+        <addr units="zip">60014</addr>
+    </billed>
+   
+    <items>
+        <item1>
+            <name>Laptop</name>
+            <StockNo>35463</StockNo>
+            <UnitCost>12000.00</UnitCost>
+            <Quantity>2</Quantity>
+            <Amount units="USD">2400.00</Amount>
+            <Amount units="EUR">2192.68</Amount>
+        </item1>
+
+        <item2>
+            <name>Monitor</name>
+            <StockNo>12573</StockNo>
+            <UnitCost>150.00</UnitCost>
+            <Quantity>5</Quantity>
+            <Amount units="USD">750.00</Amount>
+            <Amount units="EUR">685.21</Amount>
+        </item2>
+
+        <item3>
+            <name>Mouse</name>
+            <StockNo>68005</StockNo>
+            <UnitCost>30.00</UnitCost>
+            <Quantity>5</Quantity>
+            <Amount units="USD">150.00</Amount>
+            <Amount units="EUR">137.04</Amount>
+        </item3>
+    </items>
+
+    <TotalBilled units="USD">3300.00</TotalBilled>
+    <TotalBilled units="EUR">3014.94</TotalBilled>
+
+</invoice>
+
+
+
+
+
